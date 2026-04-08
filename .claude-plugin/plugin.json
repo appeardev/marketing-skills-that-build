@@ -1,0 +1,21 @@
+{
+  "name": "marketing-skills-that-build",
+  "description": "Marketing skills that actually build things — Elementor pages, programmatic SEO, multilingual sites via MCP tools",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jorge Diaz",
+    "url": "https://doublemyleads.com"
+  },
+  "repository": "https://github.com/appeardev/marketing-skills-that-build",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "seo",
+    "elementor",
+    "wordpress",
+    "programmatic-seo",
+    "multilingual",
+    "wpml",
+    "mcp"
+  ]
+}
