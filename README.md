@@ -123,4 +123,4 @@ MIT — Use it, share it, modify it.
 
 ---
 
-Built by [@jorgediazapps](https://twitter.com/jorgediazapps) while building [Double My Leads](https://doublemyleads.com) with Claude Code.
+Built by [@jorgediazapps](https://x.com/jorgediazapps) while building [Double My Leads](https://doublemyleads.com) with Claude Code.
